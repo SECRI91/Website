@@ -857,23 +857,28 @@ header{
   
   @media screen and (max-width: 520px) {
     .screen-body {
-      flex-direction: column;
+        flex-direction: column;
+        font-weight: lighter;
     }
   
     .screen-body-item.left {
-      margin-bottom: 30px;
+        margin-bottom: 30px;
+        font-weight: lighter;
     }
   
     .app-title {
-      flex-direction: row;
+        flex-direction: row;
+        font-weight: lighter;
     }
   
     .app-title span {
-      margin-right: 12px;
+        margin-right: 12px;
+        font-weight: lighter;
     }
   
     .app-title:after {
-      display: none;
+        display: none;
+        font-weight: lighter;
     }
   }
   
