@@ -515,7 +515,7 @@ header{
 
 @media screen and (max-width: 425px) {
   .ldev img{
-    width: 40px;
+    width: 60px;
     animation: wiggle 20s linear infinite;
   }
 }
@@ -581,7 +581,7 @@ header{
 
 @media screen and (max-width: 425px) {
   .lpar img{
-    width: 40px;
+    width: 60px;
     animation: wiggleee 5s linear infinite;
   }
 }
